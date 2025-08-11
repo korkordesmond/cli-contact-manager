@@ -39,5 +39,5 @@ A terminal-based contact management system that lets users store, update, search
 Open your terminal and run:
 ```bash
 git clone https://github.com/korkordesmond/cli-contact-manager.git
-cd contact-manager
-python contact_manager.py
+cd cli-contact-manager
+python cli-contact-manager.py
