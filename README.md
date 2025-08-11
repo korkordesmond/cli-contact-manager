@@ -37,7 +37,6 @@ A terminal-based contact management system that lets users store, update, search
 
 ### 1. Clone the repository or download the script
 Open your terminal and run:
-
 ```bash
 git clone https://github.com/korkordesmond/cli-contact-manager.git
 cd contact-manager
